@@ -90,7 +90,7 @@ if submitted:
         {"role": "user", "content" : f"Generate a specific cover letter based on the above. Generate the response and include appropriate spacing between the paragraph text"}
     ]
     )
-    st.write(completion)
+    # st.write(completion)
     response_out = completion['choices'][0]['message']['content']
     st.write(response_out)
 
