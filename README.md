@@ -2,7 +2,6 @@
 
 Welcome to the Cover Letter Generator, an innovative tool designed to assist you in creating the perfect cover letter for your dream job. This project combines the power of Streamlit and the GPT-3.5 model from OpenAI to provide you with a personalized and professional cover letter tailored to your needs.
 
-
 ## Introduction
 - Crafting a compelling cover letter can often be a daunting task, but with the Cover Letter Generator, it's a breeze. Our application utilizes cutting-edge AI to assist you in crafting cover letters that not only underscore your strengths but also perfectly align with your personality and the unique demands of the job you're targeting.
 
@@ -34,7 +33,6 @@ streamlit run app.py
 5. Click the "Download Cover Letter" button to save it as a TXT file.
 6. Use the downloaded cover letter when applying for your desired job.
 
-
 ## Dependencies
 
 This project relies on the following dependencies:
@@ -54,7 +52,6 @@ This project operates under the permissive [MIT License](https://opensource.org/
 ## Website
 
 Explore our Cover Letter Generator on our website [here](https://cv-letter-generator.streamlit.app/).
-
 
 <table>
   <tr>
