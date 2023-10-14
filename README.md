@@ -14,7 +14,7 @@ Welcome to the Cover Letter Generator, an innovative tool designed to assist you
 ## Getting Started
 
 ```
-git clone https://github.com/yourusername/Cover-Letter-Generator.git
+git clone https://github.com/Zaheer-10/Cover-Letter-Generator.git
 pip install -r requirements.txt
 streamlit run app.py
 ```
